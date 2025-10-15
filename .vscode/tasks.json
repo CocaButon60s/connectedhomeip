@@ -620,6 +620,7 @@
                 "linux-x64-rpc-console",
                 "linux-x64-thermostat",
                 "linux-x64-thermostat-ipv6only",
+                "linux-x64-bridge",
                 "mbed-CY8CPROTO_062_4343W-all-clusters-debug",
                 "mbed-CY8CPROTO_062_4343W-all-clusters-develop",
                 "mbed-CY8CPROTO_062_4343W-all-clusters-release",
